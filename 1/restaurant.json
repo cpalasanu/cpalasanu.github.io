@@ -1,0 +1,10 @@
+{
+    "name": "Test name for now 1",
+    "menu": [
+        {
+            "name": "Meal 1",
+            "price": 14.5
+
+        }
+    ]
+}

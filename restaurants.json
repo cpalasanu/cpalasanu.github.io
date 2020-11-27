@@ -1,0 +1,28 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "Test name for now 1"
+        },
+
+        {
+            "id": 2,
+            "name": "Test name for now 2"
+        },
+
+        {
+            "id": 3,
+            "name": "Test name for now 3"
+        },
+
+        {
+            "id": 4,
+            "name": "Test name for now 4"
+        },
+
+        {
+            "id": 5,
+            "name": "Test name for now 5"
+        }
+    ]
+}
