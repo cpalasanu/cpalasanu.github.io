@@ -2,27 +2,79 @@
     "restaurants": [
         {
             "id": 1,
-            "name": "Test name for now 1"
+            "title": "Test title 1",
+            "subtitle": "Test subtitle",
+            "image": "https://picsum.photos/640/300",
+            "filters": ["healthy", "vegetarian"]
         },
 
         {
             "id": 2,
-            "name": "Test name for now 2"
+            "title": "Test title 2",
+            "subtitle": "Test subtitle",
+            "image": "https://picsum.photos/640/300",
+            "filters": ["pizza", "fast_food"]
         },
 
         {
             "id": 3,
-            "name": "Test name for now 3"
+            "title": "Test title 3",
+            "subtitle": "Test subtitle",
+            "image": "https://picsum.photos/640/300",
+            "filters": ["asian", "fast_food", "healthy"]
         },
 
         {
             "id": 4,
-            "name": "Test name for now 4"
+            "title": "Test title 4",
+            "subtitle": "Test subtitle",
+            "image": "https://picsum.photos/640/300",
+            "filters": ["russian"]
         },
 
         {
             "id": 5,
-            "name": "Test name for now 5"
+            "title": "Test title 5",
+            "subtitle": "Test subtitle",
+            "image": "https://picsum.photos/640/300",
+            "filters": ["small_restaurations", "vegetarian"]
+        }
+    ],
+    "filters": [
+        {
+            "id": "healthy",
+            "label": "Healthy",
+            "icon": "https://galaxy.deindeal.ch/api/img?p=next/themes/fd_healthy.svg&v=1601035845"
+        },
+        {
+            "id": "pizza",
+            "label": "Pizza",
+            "icon": "https://galaxy.deindeal.ch/api/img?p=next/themes/fd_pizza.svg&v=1600854483"
+        },
+        {
+            "id": "fast_food",
+            "label": "Fast-Food",
+            "icon": "https://galaxy.deindeal.ch/api/img?p=next/themes/fd_fast_food.svg&v=1601034261"
+        },
+        {
+            "id": "asian",
+            "label": "Asiatique",
+            "icon": "https://galaxy.deindeal.ch/api/img?p=next/themes/fd_asian.svg&v=1601034204"
+        },
+        {
+            "id": "vegetarian",
+            "label": "Végétarienne",
+            "icon": "https://galaxy.deindeal.ch/api/img?p=next/themes/fd_vegetarian.svg&v=1601034288"
+        },
+        {
+            "id": "russian",
+            "label": "Russe",
+            "icon": "https://galaxy.deindeal.ch/api/img?p=next/themes/fd_russian.svg&v=1601032094"
+        },
+        {
+            "id": "small_restaurations",
+            "label": "Petites restaurations",
+            "icon": "https://galaxy.deindeal.ch/api/img?p=next/themes/fd_small_restaurations.svg&v=1601034281"
         }
     ]
 }
