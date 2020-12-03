@@ -4,7 +4,7 @@
             "id": 1,
             "title": "Test title 1",
             "subtitle": "Test subtitle",
-            "image": "https://picsum.photos/640/300",
+            "image": "https://picsum.photos/640/300?random=1",
             "filters": ["healthy", "vegetarian"]
         },
 
@@ -12,7 +12,7 @@
             "id": 2,
             "title": "Test title 2",
             "subtitle": "Test subtitle",
-            "image": "https://picsum.photos/640/300",
+            "image": "https://picsum.photos/640/300?random=3",
             "filters": ["pizza", "fast_food"]
         },
 
@@ -20,7 +20,7 @@
             "id": 3,
             "title": "Test title 3",
             "subtitle": "Test subtitle",
-            "image": "https://picsum.photos/640/300",
+            "image": "https://picsum.photos/640/300?random=2",
             "filters": ["asian", "fast_food", "healthy"]
         },
 
@@ -28,7 +28,7 @@
             "id": 4,
             "title": "Test title 4",
             "subtitle": "Test subtitle",
-            "image": "https://picsum.photos/640/300",
+            "image": "https://picsum.photos/640/300?random=4",
             "filters": ["russian"]
         },
 
@@ -36,7 +36,7 @@
             "id": 5,
             "title": "Test title 5",
             "subtitle": "Test subtitle",
-            "image": "https://picsum.photos/640/300",
+            "image": "https://picsum.photos/640/300?random=5",
             "filters": ["small_restaurations", "vegetarian"]
         }
     ],

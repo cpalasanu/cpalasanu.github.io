@@ -3,72 +3,72 @@
     "menu": [
         {
             "title": "Meal 1",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=33",
             "price": 3.5
         },
         {
             "title": "Meal 2",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=34",
             "price": 4.5
         },
         {
             "title": "Meal 3",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=35",
             "price": 2.5
         },
         {
             "title": "Meal 4",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=36",
             "price": 19.5
         },
         {
             "title": "Meal 5",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=37",
             "price": 24.5
         },
         {
             "title": "Meal 6",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=38",
             "price": 12.5
         },
         {
             "title": "Meal 7",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=39",
             "price": 9.5
         },
         {
             "title": "Meal 8",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=40",
             "price": 8.5
         },
         {
             "title": "Meal 9",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=41",
             "price": 8.5
         },
         {
             "title": "Meal 10",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=42",
             "price": 9.5
         },
         {
             "title": "Meal 11",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=43",
             "price": 11.5
         },
         {
             "title": "Meal 12",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=44",
             "price": 3.5
         },
         {
             "title": "Meal 13",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=45",
             "price": 24.5
         },
         {
             "title": "Meal 14",
-            "image": "https://picsum.photos/300",
+            "image": "https://picsum.photos/300?random=46",
             "price": 12.5
         }
     ]
