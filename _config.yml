@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Testing
+description: Playing around with github pages
+
+author:
+  name: cpalasanu
